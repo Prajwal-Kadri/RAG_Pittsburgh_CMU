@@ -4,7 +4,7 @@ A retrieval-augmented generation (RAG) system that answers questions about Pitts
 
 Built for CMU's Advanced Natural Language Processing course.
 
-> **Looking for the code?** This `readme-only` branch contains only this document. Please write a mail to pkadri@andrew.cmu.edu tor request access to the private repository.
+> **Looking for the code?** This `readme-only` branch contains only this document. Please write a mail to pkadri@andrew.cmu.edu to request access to the private repository.
 
 ## How it works
 
