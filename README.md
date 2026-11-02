@@ -27,19 +27,8 @@ The saved runs below were evaluated on **157 public development questions**. Sco
 
 The revised-evidence runs use additional sources and a different evidence-selection process, so these rows are not a controlled comparison of passage count alone. They illustrate a trade-off in these saved runs: higher answer recall came with lower exact match and F1.
 
-The scores are development-set results, not an estimate on a held-out dataset. See [saved metrics on `main`](https://github.com/Prajwal-Kadri/11711_HomeWork2/blob/main/results/public_metrics.json) for the underlying values.
+The scores are development-set results, not an estimate on a held-out dataset. 
 
-## Project contents
-
-The following files are on the [`main` branch](https://github.com/Prajwal-Kadri/11711_HomeWork2/tree/main):
-
-| Path | Purpose |
-| --- | --- |
-| [`src/`](https://github.com/Prajwal-Kadri/11711_HomeWork2/tree/main/src) | Collection, cleaning, chunking, indexing, retrieval, generation, and evaluation code |
-| [`run.py`](https://github.com/Prajwal-Kadri/11711_HomeWork2/blob/main/run.py) | Revised-evidence pipeline for 15 and 25 passages |
-| [`data/`](https://github.com/Prajwal-Kadri/11711_HomeWork2/tree/main/data) | Compressed source corpus, seed URLs, and public development questions with reference answers |
-| [`results/`](https://github.com/Prajwal-Kadri/11711_HomeWork2/tree/main/results) | Saved public predictions and aggregate metrics |
-| [`requirements.txt`](https://github.com/Prajwal-Kadri/11711_HomeWork2/blob/main/requirements.txt) | Python dependencies |
 
 ## Getting started
 
@@ -113,7 +102,6 @@ python -m src.evaluate \
   --out runs/public/scores.json
 ```
 
-To inspect previously saved aggregate scores without running a model, open [`results/public_metrics.json`](https://github.com/Prajwal-Kadri/11711_HomeWork2/blob/main/results/public_metrics.json) on `main`.
 
 ## Tools and models
 
