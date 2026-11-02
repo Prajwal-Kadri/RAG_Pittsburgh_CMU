@@ -4,7 +4,7 @@ A retrieval-augmented generation (RAG) system that answers questions about Pitts
 
 Built for CMU's Advanced Natural Language Processing course.
 
-> **Looking for the code?** This `readme-only` branch contains only this document. Switch to the [`main` branch](https://github.com/Prajwal-Kadri/11711_HomeWork2/tree/main) to explore or run the project.
+> **Looking for the code?** This `readme-only` branch contains only this document. Please write a mail to pkadri@andrew.cmu.edu tor request access to the private repository.
 
 ## How it works
 
