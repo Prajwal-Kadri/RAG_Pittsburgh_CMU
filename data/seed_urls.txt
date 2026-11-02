@@ -1,0 +1,50 @@
+# CMU facts and history
+https://www.cmu.edu/about/
+https://www.cmu.edu/about/history
+https://www.cmu.edu/visit/
+https://events.cmu.edu/day
+https://events.cmu.edu/directory/
+
+# Pittsburgh history and official city information
+https://www.pittsburghpa.gov/
+https://www.pittsburghpa.gov/Recreation-Events
+https://www.pittsburghpa.gov/City-Government/City-Information/City-Press-Release-Archive/Special-Events
+
+# Annual events, culture, and tourism
+https://www.visitpittsburgh.com/
+https://www.visitpittsburgh.com/events-festivals/
+https://www.visitpittsburgh.com/events-festivals/annual-events/
+https://www.visitpittsburgh.com/neighborhoods/downtown-pittsburgh/must-attend-events-festivals-downtown/
+
+# Sports
+https://www.steelers.com/team/players-roster/
+https://www.steelers.com/team/players-roster/carson-bruener/
+https://www.mlb.com/player/brandon-eisert-685126
+https://www.nhl.com/penguins/tickets/promotional-schedule
+https://www.nhl.com/penguins/tickets/single-game-tickets
+
+# Concerts
+https://pittsburghsymphony.org/production/107728/fiddlesticks-once-upon-a-melody
+https://pittsburghsymphony.org/production/all
+https://pittsburghsymphony.org/pso_home/web/fiddlesticks-musical-exploration
+
+# Restaurants and recurring festivals
+https://www.visitpittsburgh.com/blog/top-places-to-eat-in-downtown-pittsburgh/
+https://www.visitpittsburgh.com/blog/winter-restaurant-week/
+https://www.picklesburgh.com/thedillydetailspicklesburgh2026/
+https://www.picklesburgh.com/picklesburgh-celebrates-a-decade-of-dill/
+https://www.picklesburgh.com/accessibility/
+
+# Taxes
+https://www.pittsburghpa.gov/City-Government/Finance-Budget/Taxes
+https://www.pittsburghpa.gov/City-Government/Finance-Budget/Taxes/Tax-FAQs
+
+# Museum history
+https://carnegiemuseums.org/carnegie-magazine/125-years/
+https://carnegiemuseums.org/carnegie-magazine/spring-2018/pittsburghs-painter/
+
+# Museum collection: requires JavaScript-aware extraction
+https://collection.carnegieart.org/objects/a8e1158a-e24e-4dfa-9f11-191f6b18fdc3
+
+# Parking regulations: requires PDF extraction
+https://www.pittsburghpa.gov/files/assets/city/v/1/finance/documents/tax-forms/9625_parking_tax_regulations.pdf
